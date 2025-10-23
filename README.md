@@ -12,4 +12,5 @@ Testing GitHub features
 * Flavia Oliveira
 * Simran Afonso
 * Jerson Miranda
+* Myron Gonsalves
 * Jesslyn Mascarenhas
