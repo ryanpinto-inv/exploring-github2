@@ -10,4 +10,5 @@ Testing GitHub features
 * Atharv Prabhu
 * Siddharth
 * Flavia Oliveira
+* Simran Afonso
 * Jerson Miranda
