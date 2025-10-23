@@ -5,4 +5,5 @@ Testing GitHub features
 * Sanket Kadam
 * Seisha Prabhu
 * Bhawesh Papanai
+* Harsh D
 * Atharv Prabhu
