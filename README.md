@@ -8,3 +8,4 @@ Testing GitHub features
 * Ayush Desai
 * Harsh D
 * Atharv Prabhu
+* Siddharth
