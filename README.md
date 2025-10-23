@@ -3,3 +3,4 @@ Testing GitHub features
 
 * Ryan Pinto
 * Sanket Kadam
+* Seisha Prabhu
