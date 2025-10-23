@@ -6,3 +6,4 @@ Testing GitHub features
 * Seisha Prabhu
 * Bhawesh Papanai
 * Atharv Prabhu
+* Flavia Oliveira
